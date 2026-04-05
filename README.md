@@ -1,4 +1,4 @@
-# Jaime Florencio — Desenvolvimento de Sistemas Embarcados
+# 👋 Jaime Florencio — Desenvolvimento de Sistemas Embarcados
 
 ⚡ Engenharia Elétrica | Sistemas Embarcados
 💻 Firmware em C/C++ | ESP32 | AVR
